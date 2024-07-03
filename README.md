@@ -49,6 +49,9 @@ Example:
 python scanner.py 192.168.1.1
 ```
 
+![image](https://github.com/Chuuch/network-threat-analyzer/assets/78451418/b34a4dab-0665-48b0-a322-239b66f2258f)
+
+
 ## Configuration
 
 You will need an API key from AbuseIPDB to use this tool. Sign up at [AbuseIPDB](https://www.abuseipdb.com/) and get your API key.
@@ -61,4 +64,3 @@ API_KEY=your_abuseipdb_api_key
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
