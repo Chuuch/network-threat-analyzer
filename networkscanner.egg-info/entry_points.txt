@@ -1,2 +1,0 @@
-[console_scripts]
-networkscanner-cli = networkscanner.scanner:port_scan
