@@ -1,4 +1,3 @@
-```markdown
 # Network Threat Analyzer
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
