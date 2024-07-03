@@ -1,6 +1,6 @@
 import socket
 from datetime import datetime
-from .api import check_abuse_ipdb
+from api import check_abuse_ipdb
 
 def port_scan(target):
     try:
